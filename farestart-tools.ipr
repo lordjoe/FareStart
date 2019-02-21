@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="jar" name="farestart-tools:jar">
+      <output-path>$PROJECT_DIR$/out/artifacts/farestart_tools_jar</output-path>
+      <root id="archive" name="farestart-tools.jar">
+        <element id="module-output" name="farestart-tools" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus-platform/2.3.1-1.3/artoolkitplus-platform-2.3.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-jackson/2.1.0/converter-jackson-2.1.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags-platform/master-1.3/chilitags-platform-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract-platform/3.04.01-1.3/tesseract-platform-3.04.01-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394-platform/2.2.4-1.3/libdc1394-platform-2.2.4-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5/jackson-annotations-2.9.5.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg-platform/3.2.1-1.3/ffmpeg-platform-3.2.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect-platform/0.5.3-1.3/libfreenect-platform-0.5.3-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.0.1/poi-ooxml-4.0.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="library" level="project" name="Maven: org.bytedeco:javacpp-presets-platform:1.3" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl-platform/2.2.1-1.3/gsl-platform-2.2.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense-platform/1.9.6-1.3/librealsense-platform-1.9.6-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow-platform/0.11.0-1.3/tensorflow-platform-0.11.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-forms/1.7.2/jgoodies-forms-1.7.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark-platform/1.07-1.3/flandmark-platform-1.07-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm-platform/3.9.0-1.3/llvm-platform-3.9.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture-platform/2.9.3.43-1.3/flycapture-platform-2.9.3.43-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3/javacpp-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/constantcontact/java-sdk/5.0.4/java-sdk-5.0.4.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-common/1.7.0/jgoodies-common-1.7.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacv-platform/1.3.2/javacv-platform-1.3.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.4.1/logging-interceptor-3.4.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.05/curvesapi-1.05.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.0.2/xmlbeans-3.0.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.1/poi-4.0.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2-platform/0.2.0-1.3/libfreenect2-platform-0.2.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw-platform/3.3.5-1.3/fftw-platform-3.3.5-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.2/javacv-1.3.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet-platform/master-1.3/mxnet-platform-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe-platform/master-1.3/caffe-platform-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda-platform/8.0-1.3/cuda-platform-8.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.0.1/poi-ooxml-schemas-4.0.1.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-windows-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput-platform/0.200-1.3/videoinput-platform-0.200-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-armhf.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/constantcontact/java-components/5.0.4/java-components-5.0.4.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-windows-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-android-arm.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-android-x86.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-macosx-x86_64.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-ppc64le.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-macosx-x86_64.jar" path-in-jar="/" />
+      </root>
+    </artifact>
+  </component>
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="farestart-tools" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="farestart-tools" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <inspection_tool class="JavadocReference" enabled="true" level="WARNING" enabled_by_default="true" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/farestart-tools.iml" filepath="$PROJECT_DIR$/farestart-tools.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: com.constantcontact:java-components:5.0.4">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-components/5.0.4/java-components-5.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-components/5.0.4/java-components-5.0.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-components/5.0.4/java-components-5.0.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.constantcontact:java-sdk:5.0.4">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-sdk/5.0.4/java-sdk-5.0.4.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-sdk/5.0.4/java-sdk-5.0.4-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/constantcontact/java-sdk/5.0.4/java-sdk-5.0.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5/jackson-annotations-2.9.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5/jackson-annotations-2.9.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.5/jackson-annotations-2.9.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.5/jackson-core-2.9.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.github.sarxos:webcam-capture:0.3.12">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/sarxos/webcam-capture/0.3.12/webcam-capture-0.3.12-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.github.virtuald:curvesapi:1.05">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.05/curvesapi-1.05.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.05/curvesapi-1.05-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.05/curvesapi-1.05-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.jgoodies:jgoodies-common:1.7.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-common/1.7.0/jgoodies-common-1.7.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-common/1.7.0/jgoodies-common-1.7.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-common/1.7.0/jgoodies-common-1.7.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.jgoodies:jgoodies-forms:1.7.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-forms/1.7.2/jgoodies-forms-1.7.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-forms/1.7.2/jgoodies-forms-1.7.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/jgoodies/jgoodies-forms/1.7.2/jgoodies-forms-1.7.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.nativelibs4java:bridj:0.7.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/nativelibs4java/bridj/0.7.0/bridj-0.7.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.squareup.okhttp3:logging-interceptor:3.4.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.4.1/logging-interceptor-3.4.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.4.1/logging-interceptor-3.4.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/logging-interceptor/3.4.1/logging-interceptor-3.4.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.squareup.okhttp3:okhttp:3.8.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okhttp3/okhttp/3.8.0/okhttp-3.8.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.squareup.okio:okio:1.13.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.13.0/okio-1.13.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/okio/okio/1.13.0/okio-1.13.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.squareup.retrofit2:converter-jackson:2.1.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-jackson/2.1.0/converter-jackson-2.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-jackson/2.1.0/converter-jackson-2.1.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/converter-jackson/2.1.0/converter-jackson-2.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: com.squareup.retrofit2:retrofit:2.3.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/com/squareup/retrofit2/retrofit/2.3.0/retrofit-2.3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: commons-codec:commons-codec:1.11">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: commons-logging:commons-logging:1.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.commons:commons-collections4:4.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.commons:commons-compress:1.18">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.18/commons-compress-1.18-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.commons:commons-lang3:3.0">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.0/commons-lang3-3.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.commons:commons-math3:3.6.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.httpcomponents:httpclient:4.5.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.httpcomponents:httpcore:4.4.8">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.poi:poi-ooxml-schemas:4.0.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.0.1/poi-ooxml-schemas-4.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.0.1/poi-ooxml-schemas-4.0.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/4.0.1/poi-ooxml-schemas-4.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.poi:poi-ooxml:4.0.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.0.1/poi-ooxml-4.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.0.1/poi-ooxml-4.0.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.0.1/poi-ooxml-4.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.poi:poi:4.0.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.1/poi-4.0.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.1/poi-4.0.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/4.0.1/poi-4.0.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.apache.xmlbeans:xmlbeans:3.0.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.0.2/xmlbeans-3.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.0.2/xmlbeans-3.0.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/3.0.2/xmlbeans-3.0.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus-platform:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus-platform/2.3.1-1.3/artoolkitplus-platform-2.3.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus-platform/2.3.1-1.3/artoolkitplus-platform-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus-platform/2.3.1-1.3/artoolkitplus-platform-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:android-arm:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:android-x86:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:linux-armhf:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:linux-ppc64le:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:linux-x86:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:linux-x86_64:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:macosx-x86_64:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:windows-x86:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:windows-x86_64:2.3.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:caffe-platform:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe-platform/master-1.3/caffe-platform-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe-platform/master-1.3/caffe-platform-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe-platform/master-1.3/caffe-platform-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:caffe:linux-x86:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:caffe:linux-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:caffe:macosx-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:caffe:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/caffe/master-1.3/caffe-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags-platform:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags-platform/master-1.3/chilitags-platform-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags-platform/master-1.3/chilitags-platform-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags-platform/master-1.3/chilitags-platform-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:android-arm:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:android-x86:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:linux-armhf:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:linux-ppc64le:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:linux-x86:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:linux-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:macosx-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:windows-x86:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:chilitags:windows-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/chilitags/master-1.3/chilitags-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda-platform:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda-platform/8.0-1.3/cuda-platform-8.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda-platform/8.0-1.3/cuda-platform-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda-platform/8.0-1.3/cuda-platform-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda:linux-ppc64le:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda:linux-x86_64:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda:macosx-x86_64:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:cuda:windows-x86_64:8.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/cuda/8.0-1.3/cuda-8.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg-platform:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg-platform/3.2.1-1.3/ffmpeg-platform-3.2.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg-platform/3.2.1-1.3/ffmpeg-platform-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg-platform/3.2.1-1.3/ffmpeg-platform-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:android-arm:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:android-x86:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:linux-armhf:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:linux-ppc64le:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:linux-x86:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:linux-x86_64:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:macosx-x86_64:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:windows-x86:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:windows-x86_64:3.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw-platform:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw-platform/3.3.5-1.3/fftw-platform-3.3.5-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw-platform/3.3.5-1.3/fftw-platform-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw-platform/3.3.5-1.3/fftw-platform-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:android-arm:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:android-x86:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:linux-armhf:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:linux-ppc64le:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:linux-x86:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:linux-x86_64:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:macosx-x86_64:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:windows-x86:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:fftw:windows-x86_64:3.3.5-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/fftw/3.3.5-1.3/fftw-3.3.5-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark-platform:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark-platform/1.07-1.3/flandmark-platform-1.07-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark-platform/1.07-1.3/flandmark-platform-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark-platform/1.07-1.3/flandmark-platform-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:android-arm:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:android-x86:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:linux-armhf:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:linux-ppc64le:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:linux-x86:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:linux-x86_64:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:macosx-x86_64:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:windows-x86:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:windows-x86_64:1.07-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture-platform:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture-platform/2.9.3.43-1.3/flycapture-platform-2.9.3.43-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture-platform/2.9.3.43-1.3/flycapture-platform-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture-platform/2.9.3.43-1.3/flycapture-platform-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:linux-armhf:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:linux-x86:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:linux-x86_64:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:windows-x86:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:windows-x86_64:2.9.3.43-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl-platform:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl-platform/2.2.1-1.3/gsl-platform-2.2.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl-platform/2.2.1-1.3/gsl-platform-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl-platform/2.2.1-1.3/gsl-platform-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:android-arm:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:android-x86:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:linux-armhf:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:linux-ppc64le:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:linux-x86:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:linux-x86_64:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:macosx-x86_64:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:windows-x86:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:gsl:windows-x86_64:2.2.1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/gsl/2.2.1-1.3/gsl-2.2.1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5-platform:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-ppc64le:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-x86:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-x86_64:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:macosx-x86_64:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:windows-x86:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:windows-x86_64:1.10.0-patch1-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica-platform:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:android-arm:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:android-x86:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-armhf:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-ppc64le:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-x86:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-x86_64:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:macosx-x86_64:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:windows-x86:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:windows-x86_64:1.73-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394-platform:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394-platform/2.2.4-1.3/libdc1394-platform-2.2.4-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394-platform/2.2.4-1.3/libdc1394-platform-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394-platform/2.2.4-1.3/libdc1394-platform-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:linux-armhf:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:linux-ppc64le:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:linux-x86:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:linux-x86_64:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:macosx-x86_64:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:windows-x86:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:windows-x86_64:2.2.4-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect-platform:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect-platform/0.5.3-1.3/libfreenect-platform-0.5.3-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect-platform/0.5.3-1.3/libfreenect-platform-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect-platform/0.5.3-1.3/libfreenect-platform-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect2-platform:0.2.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2-platform/0.2.0-1.3/libfreenect2-platform-0.2.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2-platform/0.2.0-1.3/libfreenect2-platform-0.2.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2-platform/0.2.0-1.3/libfreenect2-platform-0.2.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect2:0.2.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect2:linux-x86:0.2.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect2:linux-x86_64:0.2.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:linux-armhf:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:linux-ppc64le:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:linux-x86:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:linux-x86_64:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:macosx-x86_64:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:windows-x86:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:windows-x86_64:0.5.3-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:librealsense-platform:1.9.6-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense-platform/1.9.6-1.3/librealsense-platform-1.9.6-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense-platform/1.9.6-1.3/librealsense-platform-1.9.6-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense-platform/1.9.6-1.3/librealsense-platform-1.9.6-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:librealsense:1.9.6-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:librealsense:linux-x86:1.9.6-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:librealsense:linux-x86_64:1.9.6-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:llvm-platform:3.9.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm-platform/3.9.0-1.3/llvm-platform-3.9.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm-platform/3.9.0-1.3/llvm-platform-3.9.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm-platform/3.9.0-1.3/llvm-platform-3.9.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:llvm:3.9.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:llvm:linux-x86:3.9.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:llvm:linux-x86_64:3.9.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:llvm:macosx-x86_64:3.9.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/llvm/3.9.0-1.3/llvm-3.9.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:mxnet-platform:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet-platform/master-1.3/mxnet-platform-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet-platform/master-1.3/mxnet-platform-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet-platform/master-1.3/mxnet-platform-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:mxnet:linux-x86:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:mxnet:linux-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:mxnet:macosx-x86_64:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:mxnet:master-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/mxnet/master-1.3/mxnet-master-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas-platform:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:android-arm:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:android-x86:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-armhf:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-ppc64le:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-x86:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-x86_64:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:macosx-x86_64:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:windows-x86:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:openblas:windows-x86_64:0.2.19-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv-platform:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:android-arm:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:android-x86:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-armhf:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-ppc64le:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-x86:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-x86_64:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:macosx-x86_64:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:windows-x86:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:opencv:windows-x86_64:3.1.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow-platform:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow-platform/0.11.0-1.3/tensorflow-platform-0.11.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow-platform/0.11.0-1.3/tensorflow-platform-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow-platform/0.11.0-1.3/tensorflow-platform-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:android-arm:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:android-x86:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:linux-x86:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:linux-x86_64:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tensorflow:macosx-x86_64:0.11.0-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tensorflow/0.11.0-1.3/tensorflow-0.11.0-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract-platform:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract-platform/3.04.01-1.3/tesseract-platform-3.04.01-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract-platform/3.04.01-1.3/tesseract-platform-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract-platform/3.04.01-1.3/tesseract-platform-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:android-arm:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-android-arm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:android-x86:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-android-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:linux-armhf:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-armhf.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:linux-ppc64le:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-ppc64le.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:linux-x86:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:linux-x86_64:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-linux-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:macosx-x86_64:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-macosx-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:windows-x86:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:tesseract:windows-x86_64:3.04.01-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/tesseract/3.04.01-1.3/tesseract-3.04.01-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:videoinput-platform:0.200-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput-platform/0.200-1.3/videoinput-platform-0.200-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput-platform/0.200-1.3/videoinput-platform-0.200-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput-platform/0.200-1.3/videoinput-platform-0.200-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:videoinput:0.200-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:videoinput:windows-x86:0.200-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-windows-x86.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco.javacpp-presets:videoinput:windows-x86_64:0.200-1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-windows-x86_64.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco:javacpp-presets-platform:1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets-platform/1.3/javacpp-presets-platform-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets-platform/1.3/javacpp-presets-platform-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets-platform/1.3/javacpp-presets-platform-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco:javacpp:1.3">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3/javacpp-1.3.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3/javacpp-1.3-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3/javacpp-1.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco:javacv-platform:1.3.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv-platform/1.3.2/javacv-platform-1.3.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv-platform/1.3.2/javacv-platform-1.3.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv-platform/1.3.2/javacv-platform-1.3.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.bytedeco:javacv:1.3.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.2/javacv-1.3.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.2/javacv-1.3.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.2/javacv-1.3.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.json:json:20140107">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20140107/json-20140107-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.jsoup:jsoup:1.10.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.slf4j:slf4j-api:1.7.2">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
