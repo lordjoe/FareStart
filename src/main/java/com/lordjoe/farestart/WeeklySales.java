@@ -83,6 +83,10 @@ public class WeeklySales {
         return "Week of " + SHEET_FORMAT.format(d);
     }
 
+    /**
+     * test code to read a file and generate an object
+     * @param args
+     */
     public static void main(String[] args) {
         File f = new File(args[0]);
         WeeklySales ws = new WeeklySales(f);

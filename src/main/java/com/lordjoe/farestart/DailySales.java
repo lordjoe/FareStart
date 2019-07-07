@@ -1,6 +1,8 @@
 package com.lordjoe.farestart;
 
 
+import com.lordjoe.utilities.DateUtilities;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.DayOfWeek;
@@ -83,12 +85,19 @@ public class DailySales {
         return netSales > 0 || grossSales > 0 || guests > 0;
     }
 
+
+    /**
+     * constructor adding nultiple sales   used for combining locations
+     * @param location  registered location
+     * @param ds1 sales 1
+       * @param ds2   sales 2 - these need to be on the same day
+     */
     public DailySales(RestaurantLocation location, DailySales ds1, DailySales ds2) {
         int index = 0;
         this.location = location;
         if (ds1.weekday != ds2.weekday)
             throw new IllegalArgumentException("Sales not same day");
-        if (ds1.date.getTimeInMillis() != ds2.date.getTimeInMillis() && !sameDay(ds1.date,ds2.date)) {
+        if (ds1.date.getTimeInMillis() != ds2.date.getTimeInMillis() && !DateUtilities.sameDay(ds1.date,ds2.date)) {
             throw new IllegalArgumentException("Sales not same day");
         }
         date.setTime(ds1.date.getTime());
@@ -99,16 +108,6 @@ public class DailySales {
         this.checks = ds1.checks + ds2.checks;
         this.entrees = ds1.entrees + ds2.entrees;
 
-    }
-
-    public static boolean sameDay(Calendar d1,Calendar d2)    {
-        if(d1.get(Calendar.YEAR) != d2.get(Calendar.YEAR))
-            return false;
-        if(d1.get(Calendar.MONTH) != d2.get(Calendar.MONTH))
-            return false;
-        if(d1.get(Calendar.DATE) != d2.get(Calendar.DATE))
-            return false;
-        return true;
     }
 
 
